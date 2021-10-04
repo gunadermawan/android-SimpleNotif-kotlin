@@ -4,4 +4,5 @@
     <string name="content_text">Content Text</string>
     <string name="subtext">Sub Text</string>
     <string name="send_notif">Send Notif</string>
+    <string name="notif_me">Notif me</string>
 </resources>
